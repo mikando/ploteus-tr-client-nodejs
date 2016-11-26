@@ -1,0 +1,12 @@
+{
+  "name": "ploteus-tr-client-nodejs",
+  "version": "0.1.0",
+  "dependencies": {
+    "request": "^2.78.0"
+  },
+  "description": "ploteus-tr-client-nodejs",
+  "main": "ploteus_tr_client.js",
+  "author": {
+    "name": "mikando"
+  }
+}
